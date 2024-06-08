@@ -3,7 +3,9 @@
 
 
 
- - [Plant-Monitoring-System (IOT)](https://github.com/Shubham-Bhoite/Plant-Monitoring-System)
+ - [Plant-Monitoring-System -(IOT)](https://github.com/Shubham-Bhoite/Plant-Monitoring-System)
+
+ - [Heart-Rate-Monitor -(IOT)](https://github.com/Shubham-Bhoite/Heart-Rate-Monitor)
 
 
 
