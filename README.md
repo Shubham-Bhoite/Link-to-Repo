@@ -25,4 +25,6 @@
 
  - [Dictionary-App](https://github.com/Shubham-Bhoite/Dictionary-App)
 
+ - [Java-DSA](https://github.com/Shubham-Bhoite/Java-DSA)
+
  update soon....
