@@ -27,4 +27,6 @@
 
  - [Java-DSA](https://github.com/Shubham-Bhoite/Java-DSA)
 
+ - [LastMinuteRevision-OS](https://github.com/Shubham-Bhoite/LastMinuteRevision-OS)
+
  update soon....
