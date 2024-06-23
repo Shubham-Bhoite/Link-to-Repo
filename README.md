@@ -29,4 +29,8 @@
 
  - [LastMinuteRevision-OS](https://github.com/Shubham-Bhoite/LastMinuteRevision-OS)
 
+ - [Machine-Learning](https://github.com/Shubham-Bhoite/Machine-Learning)
+
+
+
  update soon....
