@@ -31,6 +31,6 @@
 
  - [Machine-Learning](https://github.com/Shubham-Bhoite/Machine-Learning)
 
-
+ - [LastMinuteRevision-DBMS](https://github.com/Shubham-Bhoite/LastMinuteRevision-DBMS)
 
  update soon....
