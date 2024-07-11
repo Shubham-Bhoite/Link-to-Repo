@@ -35,4 +35,6 @@
 
  - [DAA](https://github.com/Shubham-Bhoite/DAA)
 
+ - [LastMinuteRevision-CN ](https://github.com/Shubham-Bhoite/LastMinuteRevision-CN)
+
  update soon....
