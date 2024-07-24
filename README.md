@@ -39,4 +39,6 @@
 
  - [LastMinuteRevision-OOP](https://github.com/Shubham-Bhoite/LastMinuteRevision-OOP)
 
+ - [Gender-Age-Detection-Using-Python](https://github.com/Shubham-Bhoite/Gender-Age-Detection-Using-Python)
+
  update soon....
