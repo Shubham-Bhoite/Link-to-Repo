@@ -41,4 +41,6 @@
 
  - [Gender-Age-Detection-Using-Python](https://github.com/Shubham-Bhoite/Gender-Age-Detection-Using-Python)
 
+ - [HPC-Practical](https://github.com/Shubham-Bhoite/HPC-Practical)
+
  update soon....
