@@ -43,4 +43,6 @@
 
  - [HPC-Practical](https://github.com/Shubham-Bhoite/HPC-Practical)
 
+ - [DL-Practical-Assignment](https://github.com/Shubham-Bhoite/DL-Practical-Assignment)
+
  update soon....
