@@ -47,4 +47,6 @@
 
  - [Revision-Of-Frontend](https://github.com/Shubham-Bhoite/Revision-Of-Frontend)
 
+ - [LastMinuteRevision-SQL](https://github.com/Shubham-Bhoite/LastMinuteRevision-SQL)
+
  update soon....
