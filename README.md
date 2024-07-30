@@ -49,4 +49,6 @@
 
  - [LastMinuteRevision-SQL](https://github.com/Shubham-Bhoite/LastMinuteRevision-SQL)
 
+ - [Cloud-Computing](https://github.com/Shubham-Bhoite/Cloud-Computing)
+
  update soon....
