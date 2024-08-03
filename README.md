@@ -54,5 +54,7 @@
 
  - [JavaScript-Programming](https://github.com/Shubham-Bhoite/JavaScript-Programming)
 
+ - [Machine-Learning-Project](https://github.com/Shubham-Bhoite/Machine-Learning-Project)
+
 
  update soon....
