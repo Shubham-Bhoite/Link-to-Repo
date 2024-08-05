@@ -56,5 +56,6 @@
 
  - [Machine-Learning-Project](https://github.com/Shubham-Bhoite/Machine-Learning-Project)
 
+ - [Web-Development-Projects](https://github.com/Shubham-Bhoite/Web-Development-Projects)
 
  update soon....
