@@ -58,6 +58,6 @@
 
  - [Web-Development-Projects](https://github.com/Shubham-Bhoite/Web-Development-Projects)
 
- - []()
+ - [Daily-Java-Learning](https://github.com/Shubham-Bhoite/Daily-Java-Learning)
 
 
